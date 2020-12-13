@@ -1,15 +1,7 @@
-# Getting Started with Create React App
+# About this project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project presented for #Adathon (@Ada-IT's Hackathon) event. This is an MVP of a communication tool for the Fundación Niwok (NGO) and the wichi women's community. 
 
-## Available Scripts
+For this project, our team had less than 18 hours to code a solution that allows the women of the Wichi community (an indigenous ethnic group from the Central Chaco and the Southern Chaco, Argentina) to be informed about the artisan products they must make to deliver to the foundation for it to distribute them in stores around the world.
 
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-URL: https://ada-niwok.netlify.app
+Learn more about Niwok and the Siwan'i steore in https://www.fundacionniwok.org/
